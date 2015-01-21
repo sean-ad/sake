@@ -18,7 +18,7 @@ _Total time 2 weeks (but can be trimmed):_
 * Yeast nutrient
 * Pinch epsom salt
 * about 1.5 cups dry rice (about 9 oz), cooked
-* about 1/2 C prepared Koji (above) - (Cold helps)
+* about 1/2 C prepared Koji (below) - (Cold helps)
 * Sake yeast
 
 **Before Day 1**: Make Koji. Dry, cool or freeze it.  (Add 2 days for this).
@@ -55,7 +55,7 @@ Add rice & koji in several batches over 3 days to coax yeast to high alcohol lev
 * 2.5 cups dry rice (about 15oz), cooked
 * 1 cup frozen/cool koji
 * 2.75 cups cold water
-* Pinch salt
+* Pinch salt or hops
 
 The night before, let starter warm to 70 F and stir koji into it, if you have time.  On brew day, cook the rice, add it to the cold water/salt/hops mixture to cool.  When it’s about 85 F combine with the starter in the fermenter.  Stir.
 
