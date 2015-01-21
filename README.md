@@ -1,7 +1,7 @@
 #Homebrew Sake
 ## Recipe and instructions
 
-Sake is rice, yeast, water, and a special mold.  The mold spores are started on a small batch of cooked rice which is then referred to as "koji" or malt-rice.  You can buy pre-made koji at specialty Asian food stores, or make your own with spores from your LHBS (see below).
+Sake is rice, yeast, water, and a special mold.  The mold spores are started on a small batch of cooked rice which is then referred to as "koji" or malt-rice.  You can buy pre-made koji at specialty Asian food stores, or make your own with spores from your LHBS (see below).  The rice is added in several additions
 
 Standard ratios are 25 koji : 100 rice : 160 water (any units).  For this 3 gallon batch we need a total of:
 
@@ -25,19 +25,11 @@ _Total time 2 weeks (but can be trimmed):_
 
 **Day 1**: Cook rice.  Mix with cold water and cold Koji and your temp should stabilize around 80F.  Keep at 70 F for two days.  Koji is converting rice starch to sugars.
 
-**Day 3**: Chill to 50 F if possible (if using WLP709).  Aerate liquified rice, pitch yeast, keep at 50 F for 12 hours or so.
+**Day 3**: If using WLP709, chill to around 50 F.  Aerate liquified rice, pitch yeast, keep at temp for 12 hours or so.
 
-**Day 4**: Let warm back to 70.  Stir 2x day.
+**Days 4-8**: Let warm back to 70 on day 4.  Stir 2x day.
 
-**Day 5**: Stir 2x day.
-
-**Day 6**: Stir 2x day.
-
-**Day 7**: Stir 1x day.
-
-**Day 8**: Stir 1x day.
-
-**Day 9**: Stir 1x day & return to 50 F if possible (if using WLP709).
+**Day 9**: Stir & return to 50 F if possible (if using WLP709).
 
 **Days 10-14**: Let it rest.  Make more koji if you’re gonna need it for the next step.
 
