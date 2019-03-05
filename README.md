@@ -12,7 +12,10 @@ Standard ratios are 25 koji : 100 rice : 160 water (any units).  For this 3 gall
  
 If making your own koji, the total uncooked rice needed is actually about 13 lbs.
 
-##Yeast Starter (Moto) 
+## Yeast Starter (Moto) 
+
+This phase builds up the yeast and mold concoction so it can handle the main volume of rice during main fermentation.
+
 _Total time 2 weeks (but can be trimmed):_
 * 2.5 C water (cold helps)
 * Yeast nutrient
