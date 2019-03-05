@@ -1,4 +1,4 @@
-#Homebrew Sake
+# Homebrew Sake
 ## Recipe and instructions
 
 Sake is rice, yeast, water, and a special mold.  The mold spores are started on a small batch of cooked rice which is then referred to as "koji" or malt-rice.  You can buy pre-made koji at specialty Asian food stores, or make your own with spores from your LHBS (see below).  The rice is added in several additions
@@ -33,7 +33,7 @@ _Total time 2 weeks (but can be trimmed):_
 
 **Days 10-14**: Let it rest.  Make more koji if you’re gonna need it for the next step.
 
-##Main Fermentation##
+## Main Fermentation
 _Total time 28 days (or so)_ :
 
 Add rice & koji in several batches over 3 days to coax yeast to high alcohol levels after koji converts the rice starch.  Let ferment for 3 weeks or so.  Need:
